@@ -165,9 +165,7 @@ seaborn
 
 scikit-learn
 
-Development environment:
-
-Jupyter Notebook
+Development environment: Jupyter Notebook
 
 Repository Structure
 project-folder
@@ -175,19 +173,7 @@ project-folder
 ├── DEVELOPING A MODEL.ipynb
 ├── README.md
 └── requirements.txt (optional)
-How to Run the Project
-1. Clone the repository
-git clone https://github.com/yourusername/car-price-prediction.git
-2. Install dependencies
-pip install pandas numpy matplotlib seaborn scikit-learn
-3. Run the notebook
-jupyter notebook
 
-Open:
-
-DEVELOPING A MODEL.ipynb
-
-Run the cells sequentially to reproduce the analysis and models.
 
 Future Improvements
 
@@ -204,67 +190,6 @@ Tree-based models
 Hyperparameter optimization
 
 Deployment as a predictive API
-
-Author
-
-Lamide
-
-Data Science / Machine Learning Project
-
-If you want, I can also help you make this 10× more impressive for recruiters, including:
-
-adding ML pipeline architecture
-
-adding feature importance analysis
-
-adding model comparison tables
-
-restructuring the repo like a real production data science project.
-
-That version looks significantly stronger on GitHub and for hiring managers.
-
-what should be the project title for Github
-
-Select a title that communicates the problem, the method, and the dataset domain. Avoid vague titles such as “Developing a Model.” Use something that a recruiter or engineer can understand immediately.
-
-Recommended options:
-
-Best option (clear and professional):
-Car Price Prediction Using Linear and Polynomial Regression
-
-Other strong alternatives:
-
-Automobile Price Prediction with Machine Learning (Python & Scikit-Learn)
-
-Predicting Car Prices Using Regression Models
-
-Exploratory Data Analysis and Regression Modeling for Car Price Prediction
-
-Automobile Price Modeling with Linear and Polynomial Regression
-
-Machine Learning Regression Project: Car Price Prediction
-
-If the goal is GitHub portfolio visibility, the strongest version is:
-
-Car Price Prediction | Regression Modeling with Python
-
-Reason:
-
-Includes keywords recruiters search: prediction, regression, python.
-
-Clearly states the problem domain (car price).
-
-Signals machine learning work, not just data analysis.
-
-Recommended repository name format:
-
-car-price-prediction-regression
-
-or
-
-automobile-price-prediction-ml
-
-Short, searchable, and professional.
 
 
 
