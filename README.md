@@ -239,7 +239,6 @@ Deployment as a predictive API
 
 
 
-Authur
-Olamide,
 
-Data Science / Machine Learning Project
+Olamide, Data Science 
+Machine Learning Project.
