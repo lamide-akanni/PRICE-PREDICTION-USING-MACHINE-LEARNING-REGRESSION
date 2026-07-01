@@ -26,24 +26,12 @@ Evaluate and refine models for best performance
 
 **Dataset**
 
-Property Details Source UCI Machine Learning Repository Dataset UCI Automobile Dataset (imports-85.data)URLhttps://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.dataRows205Columns26Target Variableprice
+Property Details Source UCI Machine Learning Repository Dataset UCI Automobile Dataset (imports-85.data)URLhttps://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.dataRows205Columns26Target Variableprice. 
+Note: The dataset is loaded directly from the UCI repository URL — no local CSV file needed.
 
 **Key Features Used:**
 
 Feature Description make Car manufacturer (e.g. audi, toyota)engine-sizeSize of the enginehorsepowerEngine horsepowerhighway-mpgFuel efficiency on highwaycity-mpgFuel efficiency in citycurb-weightWeight of the car width Width of the car bodyfuel-typeGas or diesel drive-wheels fwd / rwd / 4wdbody-styleSedan, hatchback, convertible, etc.
-
-
-**Project Structure**
-
-PRICE-PREDICTION-USING-MACHINE-LEARNING-REGRESSION/
-│
-├── car_price_prediction.ipynb   # Main Jupyter Notebook
-└── README.md                    # Project documentation
-
-
-Note: The dataset is loaded directly from the UCI repository URL — no local CSV file needed.
-
-
 
 **Methodology**
 
@@ -89,7 +77,7 @@ GridSearchCV / parameter tuning for Ridge Regression
 
 **Sample Results**
 
-ModelR² Score (approx.)Simple Linear Regression (engine-size)~0.76Multiple Linear Regression~0.82Polynomial + Pipeline~0.89Ridge Regression (tuned)~0.88
+ModelR² Score (approx.) Simple Linear Regression (engine-size) ~ 0.76 Multiple Linear Regression ~ 0.82 Polynomial + Pipeline ~ 0.89Ridge Regression (tuned) ~ 0.88
 
 
 Results are approximate and may vary based on train/test split and preprocessing choices.
